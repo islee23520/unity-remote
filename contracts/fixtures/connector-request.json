@@ -1,0 +1,9 @@
+{
+  "type": "request",
+  "id": "req-1",
+  "method": "inspectObject",
+  "payload": {
+    "objectId": "GlobalObjectId_V1-2-aaaa-1-100000",
+    "projectId": "unity-live"
+  }
+}

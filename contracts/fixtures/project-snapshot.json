@@ -1,0 +1,45 @@
+{
+  "project": {
+    "id": "unity-live",
+    "name": "LiveUnity",
+    "unityVersion": "6000.7.0a5",
+    "connected": true,
+    "source": "unity",
+    "protocolVersion": 1,
+    "assetRoots": [
+      {
+        "name": "Assets",
+        "path": "Assets"
+      },
+      {
+        "name": "Packages",
+        "path": "Packages"
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "id": "Assets/Scenes/Main.unity",
+      "name": "Main",
+      "path": "Assets/Scenes/Main.unity",
+      "loaded": true,
+      "dirty": false,
+      "revision": 3
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "scene:Assets/Scenes/Main.unity",
+      "name": "Main",
+      "active": true,
+      "children": [
+        {
+          "id": "GlobalObjectId_V1-2-aaaa-1-100000",
+          "name": "Main Camera",
+          "active": true,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "kind": "unity-project-context",
+  "generatedAt": "2026-09-03T00:00:00.000Z",
+  "project": {
+    "id": "unity-live",
+    "name": "LiveUnity",
+    "unityVersion": "6000.7.0a5",
+    "connected": true,
+    "source": "unity",
+    "protocolVersion": 1,
+    "assetRoots": [
+      {
+        "name": "Assets",
+        "path": "Assets"
+      },
+      {
+        "name": "Packages",
+        "path": "Packages"
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "id": "Assets/Scenes/Main.unity",
+      "name": "Main",
+      "path": "Assets/Scenes/Main.unity",
+      "loaded": true,
+      "dirty": false,
+      "revision": 3
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "scene:Assets/Scenes/Main.unity",
+      "name": "Main",
+      "active": true,
+      "children": [
+        {
+          "id": "GlobalObjectId_V1-2-aaaa-1-100000",
+          "name": "Main Camera",
+          "active": true,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "GlobalObjectId_V1-2-aaaa-1-100000",
+      "sceneId": "Assets/Scenes/Main.unity",
+      "name": "Main Camera",
+      "active": true,
+      "revision": 2,
+      "components": [
+        {
+          "id": "GlobalObjectId_V1-2-aaaa-1-200000",
+          "type": "UnityEngine.Transform",
+          "properties": {
+            "m_LocalPosition.x": 0,
+            "m_LocalPosition.y": 1,
+            "m_LocalPosition.z": -10
+          },
+          "editableProperties": [
+            "m_LocalPosition.x",
+            "m_LocalPosition.y",
+            "m_LocalPosition.z"
+          ],
+          "propertyDisplayNames": {
+            "m_LocalPosition.x": "Position X",
+            "m_LocalPosition.y": "Position Y",
+            "m_LocalPosition.z": "Position Z"
+          }
+        }
+      ]
+    }
+  ]
+}

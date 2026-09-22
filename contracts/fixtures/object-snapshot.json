@@ -1,0 +1,24 @@
+{
+  "id": "GlobalObjectId_V1-2-aaaa-1-100000",
+  "sceneId": "Assets/Scenes/Main.unity",
+  "name": "Main Camera",
+  "active": true,
+  "revision": 2,
+  "components": [
+    {
+      "id": "GlobalObjectId_V1-2-aaaa-1-200000",
+      "type": "UnityEngine.Transform",
+      "properties": {
+        "m_LocalPosition.x": 0,
+        "m_LocalPosition.y": 1,
+        "m_LocalPosition.z": -10
+      },
+      "editableProperties": ["m_LocalPosition.x", "m_LocalPosition.y", "m_LocalPosition.z"],
+      "propertyDisplayNames": {
+        "m_LocalPosition.x": "Position X",
+        "m_LocalPosition.y": "Position Y",
+        "m_LocalPosition.z": "Position Z"
+      }
+    }
+  ]
+}

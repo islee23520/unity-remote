@@ -1,0 +1,11 @@
+{
+  "type": "response",
+  "id": "req-1",
+  "ok": false,
+  "error": {
+    "code": "SCENE_NOT_SAVED",
+    "message": "The scene has no asset path yet.",
+    "details": { "sceneId": "Untitled" },
+    "statusCode": 422
+  }
+}

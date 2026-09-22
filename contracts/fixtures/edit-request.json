@@ -1,0 +1,8 @@
+{
+  "projectId": "unity-live",
+  "objectId": "GlobalObjectId_V1-2-aaaa-1-100000",
+  "componentId": "GlobalObjectId_V1-2-aaaa-1-200000",
+  "property": "m_LocalPosition.x",
+  "value": 4,
+  "expectedRevision": 3
+}

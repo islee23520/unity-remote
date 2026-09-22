@@ -1,0 +1,13 @@
+{
+  "name": "com.islee.unity-remote",
+  "version": "0.1.0",
+  "displayName": "Unity Remote",
+  "description": "Editor bridge for safe hierarchy inspection, constrained serialized-property edits, and AI context export.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "author": {
+    "name": "islee23520"
+  }
+}

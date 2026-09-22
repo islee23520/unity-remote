@@ -1,0 +1,6 @@
+{
+  "type": "hello",
+  "protocolVersion": 1,
+  "role": "unity",
+  "token": "fixture-token"
+}
